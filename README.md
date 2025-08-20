@@ -1,9 +1,4 @@
 # WhisperingPoet  
-
-<p align="center">
-  <img src="public/WhisperingPoetLogo.png" alt="WhisperingPoet Logo" width="200"/>
-</p>
-
 <p align="center">
   <em>✨ Where whispers turn into poetry ✨</em>
 </p>
